@@ -1,0 +1,9 @@
+[0216/143033.011:ERROR:registration_protocol_win.cc(108)] CreateFile: 系统找不到指定的文件。 (0x2)
+[0216/143047.625:ERROR:crashpad_client_win.cc(868)] not connected
+[0216/143047.846:ERROR:registration_protocol_win.cc(108)] CreateFile: 系统找不到指定的文件。 (0x2)
+[0216/143054.802:ERROR:registration_protocol_win.cc(108)] CreateFile: 系统找不到指定的文件。 (0x2)
+[0216/143058.888:ERROR:registration_protocol_win.cc(108)] CreateFile: 系统找不到指定的文件。 (0x2)
+[0216/143103.630:ERROR:registration_protocol_win.cc(108)] CreateFile: 系统找不到指定的文件。 (0x2)
+[0216/143114.305:ERROR:crashpad_client_win.cc(868)] not connected
+[0216/143145.120:ERROR:crashpad_client_win.cc(188)] crash server did not respond, self-terminating
+[0216/143145.165:ERROR:registration_protocol_win.cc(108)] CreateFile: 系统找不到指定的文件。 (0x2)
